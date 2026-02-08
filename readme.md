@@ -14,3 +14,4 @@
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 
 1. [Think Stats](https://allendowney.github.io/ThinkStats/) - Allen B. Downey
 1. [Green Tea Press](https://greenteapress.com/)
+1. [Machine Learning Yearning](https://info.deeplearning.ai/machine-learning-yearning-book) - Andrew NG
