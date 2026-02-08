@@ -11,3 +11,4 @@
 1. [Game Theory](https://www.game-theory-class.org/) - Matt Jackson & Kevin Leyton-Brown & Yoav Shoham
 1. [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) - Shai Shalev-Shwartz & Shai Ben-David
 1. [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang
+1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 
