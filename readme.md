@@ -12,3 +12,4 @@
 1. [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) - Shai Shalev-Shwartz & Shai Ben-David
 1. [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 
+1. [Think Stats](https://allendowney.github.io/ThinkStats/) - Allen B. Downey
