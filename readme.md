@@ -16,3 +16,4 @@
 1. [Green Tea Press](https://greenteapress.com/) - Allen Downey
 1. [Machine Learning Yearning](https://info.deeplearning.ai/machine-learning-yearning-book) - Andrew NG
 1. [Mining of Massive Datasets](http://mmds.org/) - Jure Leskovec & Anand Rajaraman & Jeff Ullman
+1. [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) - Ron Zacharski
