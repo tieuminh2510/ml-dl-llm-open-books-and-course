@@ -18,3 +18,5 @@
 1. [Mining of Massive Datasets](http://mmds.org/) - Jure Leskovec & Anand Rajaraman & Jeff Ullman
 1. [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) - Ron Zacharski
 1. [Practical Deep Learning](https://course.fast.ai/) - Peter Norvig
+1. [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Polo Club
+1. [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar
