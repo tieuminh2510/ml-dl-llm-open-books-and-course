@@ -12,7 +12,7 @@
 1. [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) - Shai Shalev-Shwartz & Shai Ben-David
 1. [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Michael Nielsen 
-1. [Think Stats](https://allendowney.github.io/ThinkStats/) - Allen B. Downey
-1. [Green Tea Press](https://greenteapress.com/)
+1. [Think Stats](https://allendowney.github.io/ThinkStats/) - Allen Downey
+1. [Green Tea Press](https://greenteapress.com/) - Allen Downey
 1. [Machine Learning Yearning](https://info.deeplearning.ai/machine-learning-yearning-book) - Andrew NG
 1. [Mining of Massive Datasets](http://mmds.org/) - Jure Leskovec & Anand Rajaraman & Jeff Ullman
