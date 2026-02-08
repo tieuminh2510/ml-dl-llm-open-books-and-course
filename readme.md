@@ -22,3 +22,4 @@
 1. [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - Jay Alammar
 1. [Transformers from Scratch](https://www.kaggle.com/code/auxeno/transformers-from-scratch-dl?scriptVersionId=137372275) - DL
 1. [HuggingFace LLM Course](https://huggingface.co/learn/llm-course) - HuggingFace
+1. [NLP Course For You](https://lena-voita.github.io/nlp_course.html) - Lena Voita
