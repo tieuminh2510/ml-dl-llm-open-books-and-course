@@ -9,3 +9,4 @@
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction - 2nd Edition](https://hastie.su.domains/ElemStatLearn/) - Trevor Hastie & Robert Tibshirani & Jerome Friedman
 1. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) - Christopher M. Bishop
 1. [Game Theory](https://www.game-theory-class.org/) - Matt Jackson & Kevin Leyton-Brown & Yoav Shoham
+1. [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) - Shai Shalev-Shwartz & Shai Ben-David
